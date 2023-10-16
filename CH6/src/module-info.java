@@ -4,6 +4,6 @@
 /**
  * 
  */
-module CH6 {
+module JAVA {
 	requires java.se;
 }
